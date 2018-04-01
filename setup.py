@@ -4,7 +4,7 @@ except ImportError:
     from distutils.core import setup
 
 config={
-    'description':'season ticket breaker ',
+    'description':'season ticket breaker in Python',
     'author': 'Joe Zhou',
     'url': 'https://github.com/joezhouOxford/points.git',
     'download_url':'https://github.com/joezhouOxford/points.git',
