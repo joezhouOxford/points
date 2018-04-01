@@ -10,7 +10,7 @@ config={
     'download_url':'https://github.com/joezhouOxford/points.git',
     'author_email': 'joezhou.contact@gmail.com',
     'version': '0.1',
-    'install_requires': ['nose'],
+    'install_requires': ['nose','coverage'],
     'packages': ['points'],
     'scripts': [],
     'name': 'points'

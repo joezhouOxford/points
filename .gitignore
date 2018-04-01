@@ -5,3 +5,4 @@ bin/**
 cover/**
 **/__pycache__/**
 .coverage
+**/.noseids
