@@ -6,9 +6,9 @@ except ImportError:
 config={
     'description':'season ticket breaker ',
     'author': 'Joe Zhou',
-    'url': 'URL to get it at.',
-    'download_url':'Where to download it.',
-    'author_email': 'My email.',
+    'url': 'https://github.com/joezhouOxford/points.git',
+    'download_url':'https://github.com/joezhouOxford/points.git',
+    'author_email': 'joezhou.contact@gmail.com',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['points'],
