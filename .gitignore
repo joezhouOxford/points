@@ -1,0 +1,5 @@
+points.egg-info/**
+build/**
+dist/**
+bin/**
+tests/__pycache__/**
